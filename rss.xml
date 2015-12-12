@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Erik Windahl Olsen]]></title>
         <description><![CDATA[Erik Windahl Olsen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/erik-windahl-olsen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 18:22:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Dec 2015 19:19:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/erik-windahl-olsen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/erik-windahl-olsen/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">83f1be11-6f9b-4f9a-8a8b-6c9c10d3c195</guid>
+            <pubDate>Sat, 12 Dec 2015 19:19:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Webhuset]]></title>
-            <description><![CDATA[<article><h1>Webhuset</h1><p>Ledende webhotell og domene leverandør. Tilbyr leie av VPS, virtuell server samt dedikert server. Se priser og tjenester her!</p><img src="https://www.webhuset.no/v0.2769/Content//Images/webhuset-logo-opengraph.png"></article>]]></description>
-            <link>undefinedwebhuset/index.html</link>
+            <description><![CDATA[<article><h1>Webhuset</h1><p>Ledende webhotell og domene leverandør. Tilbyr leie av VPS, virtuell server samt dedikert server. Se priser og tjenester her!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/815249f42548a23e086f511fec59501202387cc0.png"></article>]]></description>
+            <link>https://thegrid.ai/erik-windahl-olsen/webhuset/index.html</link>
             <guid isPermaLink="false">4b0b30ed-f4c8-4727-a47a-a9f1d0119b52</guid>
             <pubDate>Sat, 12 Dec 2015 18:22:24 GMT</pubDate>
         </item>
