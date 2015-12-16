@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Erik Windahl Olsen]]></title>
         <description><![CDATA[Erik Windahl Olsen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/erik-windahl-olsen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 10:43:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Dec 2015 10:44:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/erik-windahl-olsen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/36b2fc8f-53fe-4588-b1e2-26f02c1e49f3.jpg">]]></description>
+            <link>https://thegrid.ai/erik-windahl-olsen/df347721-5e15-4030-ad28-73a5b42436a0/index.html</link>
+            <guid isPermaLink="false">df347721-5e15-4030-ad28-73a5b42436a0</guid>
+            <pubDate>Wed, 16 Dec 2015 10:43:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Erik Windahl Olsen</p>]]></description>
-            <link>undefinedcb2d3ace-54d0-4953-9aaa-a5475ed80cf7/index.html</link>
+            <link>https://thegrid.ai/erik-windahl-olsen/cb2d3ace-54d0-4953-9aaa-a5475ed80cf7/index.html</link>
             <guid isPermaLink="false">cb2d3ace-54d0-4953-9aaa-a5475ed80cf7</guid>
             <pubDate>Wed, 16 Dec 2015 10:43:30 GMT</pubDate>
         </item>
