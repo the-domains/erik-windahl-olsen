@@ -1,6 +1,6 @@
 name: Erik Windahl Olsen
 favicon: null
-layout_spectrum: 0.1185717168264091
+layout_spectrum: 0
 typography_spectrum: 0.6277807604055852
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fffefc'
-    - '#101010'
-    - '#97aebe'
-    - '#595951'
-    - '#b18172'
-  brandStrength: 0.5
-  lightness: 0.3153672812040895
-  saturation: 0.5652075749821961
-  rhythmicContrast: 0.002246398711577058
+    - '#f3efec'
+    - '#121013'
+    - '#fdd02f'
+    - '#474a57'
+    - '#afa6a7'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
