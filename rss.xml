@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Erik Windahl Olsen]]></title>
+        <description><![CDATA[Erik Windahl Olsen]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 16 Dec 2015 10:43:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Erik Windahl Olsen</p>]]></description>
+            <link>undefinedcb2d3ace-54d0-4953-9aaa-a5475ed80cf7/index.html</link>
+            <guid isPermaLink="false">cb2d3ace-54d0-4953-9aaa-a5475ed80cf7</guid>
+            <pubDate>Wed, 16 Dec 2015 10:43:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
